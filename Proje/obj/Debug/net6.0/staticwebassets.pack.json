@@ -33,36 +33,20 @@
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\banner1.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\banner1.jpg"
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\abuz.png",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\abuz.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\banner2.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\banner2.jpg"
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\adanalı.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\adanalı.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\banner3.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\banner3.jpg"
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ank2.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ank2.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\banner4.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\banner4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\c1.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\c1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\c2.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\c2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\c3.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\c3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\c4.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\c4.jpg"
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\antalya.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\antalya.jpg"
     },
     {
       "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\close.png",
@@ -73,6 +57,10 @@
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\date.png"
     },
     {
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\diy1.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\diy1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\dots.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\dots.png"
     },
@@ -81,48 +69,32 @@
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\down.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g1.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g10.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g10.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g2.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g3.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g4.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g5.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g6.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g7.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g8.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\g9.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\g9.jpg"
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\icardi.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\icardi.jpg"
     },
     {
       "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\img-sprite.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ist1.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ist1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ist2.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ist2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\istanbulankara.png",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\istanbulankara.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\iz1.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\iz1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\rocky.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\rocky.jpg"
     },
     {
       "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team1.jpg",
@@ -139,6 +111,14 @@
     {
       "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team4.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ts1.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ts1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ucak.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ucak.jpg"
     },
     {
       "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\all.js",

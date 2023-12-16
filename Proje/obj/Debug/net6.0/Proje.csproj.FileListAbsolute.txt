@@ -221,3 +221,4 @@ C:\Users\Emirhan Karataş\source\repos\Proje\Proje\bin\Debug\net6.0\runtimes\win
 C:\Users\Emirhan Karataş\source\repos\Proje\Proje\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Emirhan Karataş\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.csproj.AssemblyReference.cache
 C:\Users\Emirhan Karataş\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.csproj.CopyComplete
+C:\Users\Emirhan Karataş\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.sourcelink.json
