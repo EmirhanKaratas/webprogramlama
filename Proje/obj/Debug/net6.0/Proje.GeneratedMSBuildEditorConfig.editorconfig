@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Emirhan Karataş\source\repos\Proje\Proje
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Emirhan Karataş/source/repos/Proje/Proje/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan Karataş/source/repos/Proje/Proje/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Emirhan Karataş/source/repos/Proje/Proje/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,10 +44,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Emirhan Karataş/source/repos/Proje/Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Emirhan Karataş/source/repos/Proje/Proje/Views/testcontroller/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVzdGNvbnRyb2xsZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Emirhan Karataş/source/repos/Proje/Proje/Views/_ViewImports.cshtml]
