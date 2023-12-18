@@ -25,6 +25,14 @@ namespace Proje.Controllers
         {
             return View();
         }
+        public IActionResult Yardım()
+        {
+            return View();
+        }
+        public IActionResult Seferler()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
