@@ -5799,6 +5799,7 @@ a.badge-dark.focus {
   text-align: inherit;
 }
 
+
 .list-group-item-action:hover,
 .list-group-item-action:focus {
   z-index: 1;
@@ -16645,6 +16646,17 @@ p.count-text {
   background: var(--bg-color);
   border-radius: var(--border-radius);
 }
+.w3l-contact {
+    margin-top: -70px; /* Navbar yüksekliğini dikkate alarak uygun bir değer kullanın */
+    padding-top: 120px; /* İçeriği navbar'ın altına kaydırmak için gerekli boşluğu ayarlayın */
+}
+
+@media (max-width: 768px) {
+    .w3l-contact {
+        margin-top: 0; /* Mobil cihazlarda margin'ı sıfırlayın */
+        padding-top: 50px; /* İçeriği mobil cihazlarda navbar'ın altına kaydırmak için gerekli boşluğu ayarlayın */
+    }
+}
 
 @media (max-width: 568px) {
 
@@ -16653,6 +16665,7 @@ p.count-text {
     font-size: 16px;
   }
 }
+
 
 /*--//contact--*/
 /*--/footer--*/
