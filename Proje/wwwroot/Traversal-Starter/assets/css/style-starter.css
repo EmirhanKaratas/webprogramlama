@@ -14650,12 +14650,13 @@ a.dropdown-item.active {
   z-index: 1001;
 }
 
+
 header.nav-fixed {
-  padding: 0px;
-  background-color: var(--bg-color);
-  height: 80px;
-  border-bottom: none;
-  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.05);
+    padding: 0px;
+    background-color: var(--bg-color);
+    height: 80px;
+    border-bottom: none;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.05);
 }
 
 .navbar-dark .navbar-nav .show>,

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C3pt3J/w8N3b2gwK1Qps68/6GHHVh4d/3HWPNAqSavI=",
+  "Hash": "E7UifyC2krLAUsVSkQl0eZTlVqtLoiEI9hoRSSOUQm0=",
   "Source": "Proje",
   "BasePath": "_content/Proje",
   "Mode": "Default",
@@ -1459,6 +1459,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Traversal-Starter\\assets\\images\\balık.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\baslikresim.jpg",
+      "SourceId": "Proje",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\",
+      "BasePath": "_content/Proje",
+      "RelativePath": "Traversal-Starter/assets/images/baslikresim.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Traversal-Starter\\assets\\images\\baslikresim.jpg"
     },
     {
       "Identity": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\bodrum-merkez.jpg",
