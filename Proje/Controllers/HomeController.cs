@@ -33,6 +33,11 @@ namespace Proje.Controllers
         {
             return View();
         }
+        public IActionResult Blog()
+        {
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {

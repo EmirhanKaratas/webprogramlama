@@ -6,10 +6,12 @@ namespace Proje.Models.siniflar
     {
         [Key]
         public int YorumlarID { get; set; }
-        public string Musteri {  get; set; }
+        public string MusteriAdi {  get; set; }
+        public string Mail {  get; set; }
         public string Yorum { get; set; }
         public string MusteriResim { get; set; }
+        public Blog Blog { get; set; }
         public bool Status { get; set; }
-
+        
     }
 }
