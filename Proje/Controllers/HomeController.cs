@@ -1,25 +1,32 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Proje.Models;
+using Proje.Models.siniflar;
 using System.Diagnostics;
 
 namespace Proje.Controllers
 {
     public class HomeController : Controller
     {
+        private Context _context;
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+            _context.Hakkimizdas.ToList();
+
         }
 
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult About()
+
+        
+        public IActionResult About(Hakkimizda model)
         {
-            return View();
+          
+            return View(model);
         }
         public IActionResult Contact()
         {
