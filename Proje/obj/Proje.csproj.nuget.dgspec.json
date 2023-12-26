@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\Proje.csproj": {}
+    "C:\\Users\\Emirhan Karataş\\Desktop\\mrb\\Proje\\Proje\\Proje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\Proje.csproj": {
+    "C:\\Users\\Emirhan Karataş\\Desktop\\mrb\\Proje\\Proje\\Proje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\Proje.csproj",
+        "projectUniqueName": "C:\\Users\\Emirhan Karataş\\Desktop\\mrb\\Proje\\Proje\\Proje.csproj",
         "projectName": "Proje",
-        "projectPath": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\Proje.csproj",
+        "projectPath": "C:\\Users\\Emirhan Karataş\\Desktop\\mrb\\Proje\\Proje\\Proje.csproj",
         "packagesPath": "C:\\Users\\Emirhan Karataş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\obj\\",
+        "outputPath": "C:\\Users\\Emirhan Karataş\\Desktop\\mrb\\Proje\\Proje\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.25, )"

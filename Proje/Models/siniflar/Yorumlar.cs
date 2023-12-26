@@ -10,7 +10,7 @@ namespace Proje.Models.siniflar
         public string Mail {  get; set; }
         public string Yorum { get; set; }
         public string MusteriResim { get; set; }
-        public Blog Blog { get; set; }
+       
         public bool Status { get; set; }
         
     }
