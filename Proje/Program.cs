@@ -8,9 +8,9 @@ builder.Services.AddControllersWithViews();
 
 
 
-builder.Services.AddDbContext<Context>(options =>
+builder.Services.AddDbContext<Context>(opts =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SqlCon"));
+   opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 }
 );
 

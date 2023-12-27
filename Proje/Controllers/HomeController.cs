@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Proje.Models;
 using Proje.Models.siniflar;
 using System.Diagnostics;
@@ -7,26 +8,28 @@ namespace Proje.Controllers
 {
     public class HomeController : Controller
     {
-        private Context _context;
+       
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(Context context ,ILogger<HomeController> logger)
         {
             _logger = logger;
-            _context.Hakkimizdas.ToList();
+           
+           
 
         }
-
+        
+     
         public IActionResult Index()
         {
             return View();
         }
 
-        
-        public IActionResult About(Hakkimizda model)
+       
+        public IActionResult About()
         {
-          
-            return View(model);
+           
+            return View();
         }
         public IActionResult Contact()
         {

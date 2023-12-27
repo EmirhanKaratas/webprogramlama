@@ -1,5 +1,4 @@
-﻿@using Proje.Models.siniflar
-@model List<Hakkimizda>
+﻿
 
 @{
     ViewData["Title"] = "About";
@@ -33,11 +32,11 @@ Author URL: http://w3layouts.com
             <div class="ab-section text-center">
                 <h6 class="sub-title">Hakkımızda</h6>
                 <h3 class="hny-title">Dünyanın Her Yerinde Anılar Yaratmak İçin Seyahat Edin.</h3>
-                @foreach(var x in Model){
+              
                 <p class="py-3 mb-3">
-                   @x.Aciklama1
+                
                 </p>
-                }
+                
                 <a href="/Home/Seferler/" class="btn btn-style btn-primary">Fazlası İçin</a>
             </div>
             <div class="row mt-5">

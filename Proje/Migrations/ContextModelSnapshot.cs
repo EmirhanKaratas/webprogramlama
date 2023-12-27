@@ -24,51 +24,33 @@ namespace Proje.Migrations
 
             modelBuilder.Entity("Proje.Models.siniflar.Admin", b =>
                 {
-                    b.Property<int>("AdminID")
+                    b.Property<long>("AdminID")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("bigint");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AdminID"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("AdminID"), 1L, 1);
 
-                    b.Property<string>("Kullanici")
+                    b.Property<DateTime>("DateTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("KullaniciMail")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("Rol")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("Sifre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("AdminID");
 
                     b.ToTable("Admins");
-                });
-
-            modelBuilder.Entity("Proje.Models.siniflar.Blog", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<string>("Aciklama")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Baslik")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("BlogImage")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("Tarih")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Blogs");
                 });
 
             modelBuilder.Entity("Proje.Models.siniflar.Hakkimizda", b =>
@@ -289,9 +271,6 @@ namespace Proje.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("YorumlarID"), 1L, 1);
 
-                    b.Property<int>("BlogId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Mail")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -313,25 +292,7 @@ namespace Proje.Migrations
 
                     b.HasKey("YorumlarID");
 
-                    b.HasIndex("BlogId");
-
                     b.ToTable("Yorumlars");
-                });
-
-            modelBuilder.Entity("Proje.Models.siniflar.Yorumlar", b =>
-                {
-                    b.HasOne("Proje.Models.siniflar.Blog", "Blog")
-                        .WithMany("Yorumlars")
-                        .HasForeignKey("BlogId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Blog");
-                });
-
-            modelBuilder.Entity("Proje.Models.siniflar.Blog", b =>
-                {
-                    b.Navigation("Yorumlars");
                 });
 #pragma warning restore 612, 618
         }
