@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="acik" xml:space="preserve">
+    <value>Travel to Make Memories Around the World.</value>
+  </data>
+  <data name="acik2" xml:space="preserve">
+    <value>If you want to create memories, click the button</value>
+  </data>
+  <data name="adiz" xml:space="preserve">
+    <value>Adana-Izmir</value>
+  </data>
+  <data name="adres" xml:space="preserve">
+    <value>Sakarya Serdivan Mavi Durak Street Dayıahmet Neighbourhood No:316,Turkey</value>
+  </data>
+  <data name="alim" xml:space="preserve">
+    <value>Please log in to purchase tickets.</value>
+  </data>
+  <data name="ana" xml:space="preserve">
+    <value>Home Page</value>
+  </data>
+  <data name="anis" xml:space="preserve">
+    <value>Antalya-Izmir</value>
+  </data>
+  <data name="blt" xml:space="preserve">
+    <value>We are more than a ticket company.</value>
+  </data>
+  <data name="btn2" xml:space="preserve">
+    <value>For More</value>
+  </data>
+  <data name="btn3" xml:space="preserve">
+    <value>If you have many problems such as ticket, flight, payment, wrong ticket purchase, cancellation, etc., you can go to our contact menu by clicking the button below.</value>
+  </data>
+  <data name="daha" xml:space="preserve">
+    <value>More</value>
+  </data>
+  <data name="em" xml:space="preserve">
+    <value>Your Email*</value>
+  </data>
+  <data name="fiyat" xml:space="preserve">
+    <value>Prices starting from</value>
+  </data>
+  <data name="fiyatlandirma" xml:space="preserve">
+    <value>Single person pricing!</value>
+  </data>
+  <data name="footer" xml:space="preserve">
+    <value>&amp;copy; 2023 Traversal. All rights reserved.Design by</value>
+  </data>
+  <data name="Giris" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="gn" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="gvn" xml:space="preserve">
+    <value>Secure Policy</value>
+  </data>
+  <data name="hak" xml:space="preserve">
+    <value>About Us</value>
+  </data>
+  <data name="harita" xml:space="preserve">
+    <value>Map</value>
+  </data>
+  <data name="hayal" xml:space="preserve">
+    <value>Fly to your dreams</value>
+  </data>
+  <data name="hizmet" xml:space="preserve">
+    <value>Service</value>
+  </data>
+  <data name="ilet" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="ilet1" xml:space="preserve">
+    <value>For communication</value>
+  </data>
+  <data name="ilet2" xml:space="preserve">
+    <value>Hello, you can be reached 24/7 via fax, e-mail or phone.</value>
+  </data>
+  <data name="ilet3" xml:space="preserve">
+    <value>Contact:</value>
+  </data>
+  <data name="is" xml:space="preserve">
+    <value>Your Name*</value>
+  </data>
+  <data name="istank" xml:space="preserve">
+    <value>Istanbul-Ankara</value>
+  </data>
+  <data name="istdy" xml:space="preserve">
+    <value>Istanbul-Diyarbakir</value>
+  </data>
+  <data name="istiz" xml:space="preserve">
+    <value>Istanbul-Izmır</value>
+  </data>
+  <data name="istts" xml:space="preserve">
+    <value>Istanbul-Trabzon</value>
+  </data>
+  <data name="izan" xml:space="preserve">
+    <value>Izmir-Antalya</value>
+  </data>
+  <data name="izank" xml:space="preserve">
+    <value>Izmir-Ankara</value>
+  </data>
+  <data name="konu" xml:space="preserve">
+    <value>Your Subject*</value>
+  </data>
+  <data name="kr" xml:space="preserve">
+    <value>Founder</value>
+  </data>
+  <data name="kurucu" xml:space="preserve">
+    <value>Our Founders</value>
+  </data>
+  <data name="kyt1" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="kyt2" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="kyt3" xml:space="preserve">
+    <value>If you are not a member of our site, you can sign up from the sign up section.</value>
+  </data>
+  <data name="memnuniyet" xml:space="preserve">
+    <value>Customer happiness</value>
+  </data>
+  <data name="msj" xml:space="preserve">
+    <value>Your Message*</value>
+  </data>
+  <data name="mutlu" xml:space="preserve">
+    <value>More than happy passengers</value>
+  </data>
+  <data name="odul" xml:space="preserve">
+    <value>More than awards</value>
+  </data>
+  <data name="populer" xml:space="preserve">
+    <value>Popular Flights</value>
+  </data>
+  <data name="seferara" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="seferler" xml:space="preserve">
+    <value>Expeditions</value>
+  </data>
+  <data name="sfer" xml:space="preserve">
+    <value>Flights</value>
+  </data>
+  <data name="srn1" xml:space="preserve">
+    <value>Do You Have a Problem?</value>
+  </data>
+  <data name="srn2" xml:space="preserve">
+    <value>If you have a problem, let us solve it.</value>
+  </data>
+  <data name="tercih" xml:space="preserve">
+    <value>Those who chose us made various comments.</value>
+  </data>
+  <data name="tkm" xml:space="preserve">
+    <value>My Team</value>
+  </data>
+  <data name="ucmak" xml:space="preserve">
+    <value>Flying means leaving new horizons and having new experiences.</value>
+  </data>
+  <data name="yolcu" xml:space="preserve">
+    <value>More than passengers</value>
+  </data>
+  <data name="yrm" xml:space="preserve">
+    <value>Our customers who prefer us can express their problems on the contact page.</value>
+  </data>
+  <data name="yrm2" xml:space="preserve">
+    <value>Here are those comments</value>
+  </data>
+  <data name="yrm3" xml:space="preserve">
+    <value>Are you satisfied with the service you received? You can comment on our contact page.</value>
+  </data>
+  <data name="zaman" xml:space="preserve">
+    <value>1 hour 10 minutes</value>
+  </data>
+  <data name="zaman1" xml:space="preserve">
+    <value>1 Hour 40 Minutes</value>
+  </data>
+  <data name="zaman2" xml:space="preserve">
+    <value>1 Hour 20 Minutes</value>
+  </data>
+  <data name="zaman3" xml:space="preserve">
+    <value>1 Hour</value>
+  </data>
+  <data name="zaman4" xml:space="preserve">
+    <value>1 Hour 5 Minutes</value>
+  </data>
+  <data name="zt" xml:space="preserve">
+    <value>Visit</value>
+  </data>
+</root>
