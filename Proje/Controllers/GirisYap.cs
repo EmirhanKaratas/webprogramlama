@@ -6,7 +6,7 @@ using Proje.ViewModel;
 
 namespace Proje.Controllers
 {
-    
+
     public class GirisYap : Controller
     {
         private readonly Context _context;
@@ -28,7 +28,8 @@ namespace Proje.Controllers
         [HttpPost]
         public IActionResult Register(ViewUsers users)
         {
-
+            if (ModelState.IsValid)
+            {
                 // Kullanıcı TC'si daha önce kullanılmış mı kontrolü
                 if (_context.Users.Any(x => x.KullaniciTC == users.KullaniciTC))
                 {
@@ -36,9 +37,9 @@ namespace Proje.Controllers
                     ModelState.AddModelError("KullaniciTC", "Bu TC kimlik numarası zaten kullanılmış.");
                     return View(users);
                 }
-                if (_context.Users.Any(x => x.KullaniciAdi == users.KullaniciAdi))
+                if (_context.Users.Any(x => x.KullaniciMail == users.KullaniciMail))
                 {
-                    ModelState.AddModelError("KullaniciAdi", "Bu kullanıcı adı zaten kullanılmış.");
+                    ModelState.AddModelError("KullaniciMail", "Bu Kullanici maili zaten kullanılmış.");
                     return View(users);
                 }
                 // Kullanıcıyı kaydetme işlemi
@@ -67,38 +68,44 @@ namespace Proje.Controllers
                 }
                 return RedirectToAction(nameof(Login));
 
-            
+            }
             // ModelState.IsValid false olduğu durum
             return View(users);
         }
-		[AllowAnonymous]
-		[HttpPost]
-		public IActionResult Login(ViewUsers users)
+        [AllowAnonymous]
+        [HttpPost]
+        public IActionResult Login(VİewUsersLogin users)
         {
-        
-                // Burada giriş işlemleri gerçekleştirilecek
-                // Örneğin, kullanıcı adı ve şifre kontrolü
-                Console.WriteLine(users.KullaniciMail);
+            if (ModelState.IsValid)
+            {
                 var user = _context.Users.FirstOrDefault(x => x.KullaniciMail == users.KullaniciMail && x.KullaniciSifre == users.KullaniciSifre);
+                var admin = _context.Admins.FirstOrDefault(x => x.AdminMail == users.KullaniciMail && x.AdminSifre == users.KullaniciSifre);
+
+                if (admin != null)
+                {
+                    // Admin girişi başarılı ise, yönlendirme yapabilirsiniz
+                    return RedirectToAction("Index", "Admin");
+                }
 
                 if (user != null)
                 {
-                    // Giriş başarılı ise, kullanıcıyı bir şekilde işaretleyebilirsiniz.
-                    // Örneğin, cookie kullanarak kullanıcıyı işaretleyebilirsiniz.
-                    // Bu, ASP.NET Core Identity veya başka bir kimlik doğrulama mekanizması kullanıyorsanız değişebilir.
+                    // Kullanıcı girişi başarılı ise, TempData ile mesajı ayarla
 
-                    // Örneğin: HttpContext.SignInAsync(user);
+
                     // Giriş başarılı olduğu takdirde bir sayfaya yönlendirin
                     return RedirectToAction("Index", "Home");
                 }
-       
+                else
+                {
+                    // Giriş başarısız ise, TempData ile hata mesajını ayarla
+                    TempData["ErrorMessage"] = "Giris basarisiz. Lutfen gecerli bir eposta veya sifre giriniz.";
+                }
+            }
 
-            else
-            {
-				ModelState.AddModelError("KullaniciAdi", "Giriş başarısız.");
-			}
-         return View(users);
+            // Model doğrulama başarısız olursa, aynı sayfaya geri dönün
+            return View(users);
         }
+
 
 
     }

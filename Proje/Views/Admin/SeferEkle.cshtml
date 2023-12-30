@@ -1,0 +1,49 @@
+﻿@model Proje.ViewModel.ViewSeferEkle
+@{
+    ViewData["Title"] = "SeferEkle";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+@{
+    var guzergahList = ViewBag.guzergahList as List<Proje.Models.siniflar.Güzergah>;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sefer Ekle</title>
+    <!-- Bootstrap CSS ekleyebilirsiniz -->
+</head>
+<body>
+    <h2>Yeni Sefer Ekleme</h2>
+    <br />
+    <form class="form-group" method="post" asp-action="SeferEkle1" asp-controller="Admin">
+        <label asp-for="Image">Image</label>
+        <input type="text" asp-for="Image" class="form-control" />
+        <br />
+        <label asp-for="güzergah">Güzergah</label>
+        <select asp-for="güzergah" class="form-control">
+            @foreach (var guzergah in guzergahList)
+            {
+            <option value="@guzergah.Sehirler">@guzergah.Sehirler</option>
+            }
+            <!-- Diğer güzergahları buraya ekleyebilirsiniz -->
+        </select>
+
+        <label asp-for="Gün">Gün</label>
+        <input type="date" asp-for="Gün" class="form-control" />
+        <br />
+        <label asp-for="Saat">Saat</label>
+        <input type="text" asp-for="Saat" class="form-control" />
+        <br />
+        <label asp-for="Fiyat">Fiyat</label>
+        <input type="text" id="Fiyat" name="Fiyat" class="form-control" />
+        <br />
+        <label asp-for="Kapasite">Kapasite</label>
+        <input type="text" id="Kapasite" name="Kapasite" class="form-control" />
+        <br />
+        <button type="submit" class="btn btn-primary">Sefer Ekle</button>
+    </form>
+    <!-- Bootstrap JS ve jQuery ekleyebilirsiniz -->
+</body>
+</html>

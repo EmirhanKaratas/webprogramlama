@@ -1,0 +1,39 @@
+﻿@using Proje.ViewModel
+@{
+    ViewData["Title"] = "SeferGoruntule";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<h2>Sefer Sil</h2>
+
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Güzergah</th>
+        <th>Gün</th>
+        <th>Saat</th>
+        <th>Kapasite</th>
+        <th>Fiyat</th>
+        <th>url</th>
+        <th>Sil</th>
+    </tr>
+    <tr>
+        @foreach(ViewSeferEkle sefer in Model){
+        <td>@sefer.SeferId</td>
+        <td>@sefer.güzergah</td>
+        <td>@sefer.Gün</td>
+        <td>@sefer.Saat</td>
+        <td>@sefer.Kapasite</td>
+        <td>@sefer.Fiyat</td>
+        <td>@sefer.Image</td>
+        <td>
+            <a asp-controller="Admin" asp-action="SeferSil" class="btn btn-danger" asp-route-id="@sefer.SeferId">
+               Sil
+            </a>
+        </td>
+        }
+    </tr>
+
+
+</table>

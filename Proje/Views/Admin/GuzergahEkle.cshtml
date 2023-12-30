@@ -1,0 +1,26 @@
+﻿@model Proje.ViewModel.ViewGuzergahEkle
+@{
+    ViewData["Title"] = "GuzergahEkle";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sefer Ekle</title>
+    <!-- Bootstrap CSS ekleyebilirsiniz -->
+</head>
+<body>
+    <h2>Yeni Sefer Ekleme</h2>
+    <br />
+    <form class="form-group" method="post" asp-action="GuzergahEkle" asp-controller="Admin" >
+        <label asp-for="Sehirler">Sehir:</label>
+        <input type="text" asp-for="Sehirler" name="Sehirler" class="form-control" placeholder="İstanbul-Ankara,Ankara-İstanbul"/>
+        <br />
+        <button type="submit" class="btn btn-primary">Sefer Ekle</button>
+    </form>
+    <!-- Bootstrap JS ve jQuery ekleyebilirsiniz -->
+</body>
+</html>

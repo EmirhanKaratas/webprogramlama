@@ -1,0 +1,46 @@
+﻿@using Proje.ViewModel
+@{
+    ViewData["Title"] = "Kullanicilar";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+@{
+    var userList = ViewBag.UserList as List<Proje.Models.siniflar.Users>;
+}
+
+<h2>Kullanıcılar</h2>
+<br />
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Select</th>
+                <th>TC</th>
+                <th>Ad</th>
+                <th>Mail</th>
+                <th>Şifre</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (ViewUsers user in Model)
+            {
+                <tr>
+                  
+                    <td>@user.KullaniciTC</td>
+                    <td>@user.KullaniciAdi</td>
+                    <td>@user.KullaniciMail</td>
+                    <td>@user.KullaniciSifre</td>
+                <td>
+                    <a asp-controller="Admin" asp-action="KullaniciSil" class="btn btn-danger" asp-route-id="@user.KullaniciTC">
+                        Sil
+                    </a>
+                </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+  
+
+
+
+  

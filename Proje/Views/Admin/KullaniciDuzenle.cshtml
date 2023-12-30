@@ -1,0 +1,27 @@
+﻿@model Proje.Models.siniflar.Users
+@{
+    ViewData["Title"] = "KullaniciDuzenle";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<h2>Kuulanıcı Düzenle</h2>
+<br />
+
+@using (Html.BeginForm("KullaniciDuzenle", "Admin", FormMethod.Post))
+{
+    @Html.LabelFor(x => x.KullaniciTC)
+    @Html.TextBoxFor(x => x.KullaniciTC, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.KullaniciAdi)
+    @Html.TextBoxFor(x => x.KullaniciAdi, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.KullaniciMail) 
+    @Html.TextBoxFor(x => x.KullaniciMail, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.KullaniciSifre)
+    @Html.TextBoxFor(x => x.KullaniciSifre, new { @class = "form-control" })
+    <br />
+   
+ 
+    <button class="btn btn-primary">Düzenle</button>
+}

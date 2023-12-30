@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Views\Admin\KullaniciDuzenle.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\Login_v1\css\main.css" />
     <None Include="wwwroot\Login_v1\css\util.css" />
     <None Include="wwwroot\Login_v1\fonts\font-awesome-4.7.0\css\font-awesome.css" />

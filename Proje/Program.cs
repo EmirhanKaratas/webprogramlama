@@ -10,7 +10,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<Context>(opts =>
 {
-   opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 }
 );
 

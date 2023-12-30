@@ -31,10 +31,10 @@
 				<div class="login100-pic js-tilt" data-tilt>
 					<img src="/Login_v1/images/img-01.png" alt="IMG">
 				</div>
-				<form class="login100-form validate-form" asp-controller="GirisYap" asp-action="Register" method="post">
+				<form class="login100-form " asp-controller="GirisYap" asp-action="Register" method="post">
 					<div asp-validation-summary="ModelOnly" class="text-danger small"></div>
 					<span class="login100-form-title">Üye Kaydı</span>
-					<div class="wrap-input100 validate-input">
+					<div class="wrap-input100">
 						<input asp-for="KullaniciTC" class="input100" type="text" name="KullaniciTC" placeholder="TC">
 						<span asp-validation-for="KullaniciTC" class="text-danger small"></span>
 						<span class="focus-input100"></span>
@@ -43,7 +43,7 @@
 						</span>
 					</div>
 
-					<div class="wrap-input100 validate-input">
+					<div class="wrap-input100 ">
 						<input asp-for="KullaniciAdi" class="input100" type="text" name="KullaniciAdi" placeholder="İsim">
 						<span asp-validation-for="KullaniciAdi" class="text-danger small"></span>
 						<span class="focus-input100"></span>
@@ -52,7 +52,7 @@
 						</span>
 					</div>
 
-					<div class="wrap-input100 validate-input">
+					<div class="wrap-input100 ">
 						<input asp-for="KullaniciMail" class="input100" type="text" name="KullaniciMail" placeholder="Email">
 						<span asp-validation-for="KullaniciMail" class="text-danger small"></span>
 						<span class="focus-input100"></span>
@@ -61,7 +61,7 @@
 						</span>
 					</div>
 
-					<div class="wrap-input100 validate-input">
+					<div class="wrap-input100">
 						<input asp-for="KullaniciSifre" class="input100" type="password" name="KullaniciSifre" placeholder="Şifre">
 						<span asp-validation-for="KullaniciSifre" class="text-danger small"></span>
 						<span class="focus-input100"></span>

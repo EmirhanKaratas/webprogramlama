@@ -17,7 +17,7 @@ namespace Proje.Models.siniflar
 
         [Required]
         [StringLength(50)]
-        public string AdminSifre {  get; set; }
+        public string AdminSifre { get; set; }
 
         [Required]
         [StringLength(50)]

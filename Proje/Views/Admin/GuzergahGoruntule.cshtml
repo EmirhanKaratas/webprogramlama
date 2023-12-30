@@ -1,0 +1,41 @@
+﻿@using Proje.ViewModel
+@{
+    ViewData["Title"] = "GuzergahGoruntule";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+
+@{
+    
+}
+
+<h2>Guzergah</h2>
+<br />
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            
+            <th>İd</th>
+            <th>Güzergah</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(ViewGuzergahEkle guzergah in Model){
+            <tr>
+
+                <td>@guzergah.GuzergahId</td>
+                <td>@guzergah.Sehirler</td>
+
+                <td>
+                    <a asp-controller="Admin" asp-action="GuzergahSil" class="btn btn-danger" asp-route-id="@guzergah.GuzergahId">
+                        Sil
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
