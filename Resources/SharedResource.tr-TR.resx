@@ -138,6 +138,9 @@
   <data name="anis" xml:space="preserve">
     <value>Antalya-İzmir</value>
   </data>
+  <data name="bilet" xml:space="preserve">
+    <value>Biletlerim</value>
+  </data>
   <data name="blt" xml:space="preserve">
     <value>Bir bilet firmasından daha fazlasıyız.</value>
   </data>
@@ -163,10 +166,16 @@
     <value>&amp;kopyala; 2023 Geçişi. Tüm hakları saklıdır.Tasarım:</value>
   </data>
   <data name="Giris" xml:space="preserve">
-    <value>Giriş Yap</value>
+    <value>Çıkış Yap</value>
   </data>
   <data name="gn" xml:space="preserve">
     <value>Gönder</value>
+  </data>
+  <data name="gun" xml:space="preserve">
+    <value>Gün*</value>
+  </data>
+  <data name="guz" xml:space="preserve">
+    <value>Güzergahınız*</value>
   </data>
   <data name="gvn" xml:space="preserve">
     <value>Güvenli Politika</value>
@@ -216,6 +225,9 @@
   <data name="izank" xml:space="preserve">
     <value>İzmir-Ankara</value>
   </data>
+  <data name="kad" xml:space="preserve">
+    <value>Kullanıcı Adınız*</value>
+  </data>
   <data name="konu" xml:space="preserve">
     <value>Konunuz*</value>
   </data>
@@ -248,6 +260,15 @@
   </data>
   <data name="populer" xml:space="preserve">
     <value>Popüler Uçuşlar</value>
+  </data>
+  <data name="profil" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="saat" xml:space="preserve">
+    <value>Saat*</value>
+  </data>
+  <data name="sat" xml:space="preserve">
+    <value>Satın Al</value>
   </data>
   <data name="seferara" xml:space="preserve">
     <value>Sefer Ara</value>

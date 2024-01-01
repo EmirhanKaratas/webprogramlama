@@ -1,0 +1,95 @@
+﻿@model Proje.ViewModel.ViewSeferEkle
+
+@{
+    ViewData["Title"] = "Odeme";
+    Layout = "~/Views/Shared/_testlayout.cshtml";
+}
+
+@{
+    var userList = ViewBag.UserList as List<Proje.Models.siniflar.Users>;
+}
+
+<body>
+    <br />
+    <br />
+
+    <section class="w3l-about-breadcrumb text-left">
+        <div class="breadcrumb-bg breadcrumb-bg-about py-sm-5 py-4">
+            <div class="container py-2">
+                <h2 class="title">@_localization.GetKey("sat").Value</h2>
+                <ul class="breadcrumbs-custom-path mt-2">
+                    <li><a href="#url">@_localization.GetKey("ana").Value</a></li>
+                    <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> @_localization.GetKey("sat").Value </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="w3l-contact" id="contact">
+        <form asp-action="Biletler" asp-controller="Home" method="post" class="signin-form">
+        <div class="contact-infubd py-5">
+            <div class="container py-lg-3">
+                <div class="contact-grids row">
+                    <div class="col-lg-6 contact-left">
+                        <div class="partners">
+                            <div class="cont-details">
+                                <h5> @_localization.GetKey("sat").Value</h5>
+                              
+
+                            </div>
+                            <div  class="hours">
+                             
+                                <h6 class="mt-4"> @_localization.GetKey("kad").Value</h6>
+                                @foreach (var user in userList)
+                                {
+                                        
+                                        <input type="text" id="kullaniciAdi" name="kullaniciAdi" value="@user.KullaniciAdi" readonly />
+                                }
+
+                                <h6 class="mt-4"> @_localization.GetKey("em").Value</h6>
+                                @foreach (var user in userList)
+                                {
+                                        
+                                        <input type="text" id="KullaniciMail" name="KullaniciMail" value="@user.KullaniciMail" readonly />
+                                }
+                                <h6 class="mt-4">Tc'niz*</h6>
+                                @foreach (var user in userList)
+                                {
+                                        
+                                        <input type="text" id="KullaniciTc" name="KullaniciTc" value="@user.KullaniciTC"  readonly/>
+                                }
+                                <h6 class="mt-4"> @_localization.GetKey("guz").Value</h6>
+                                <input type="text" id="güzergah" name="güzergah" value="@Model.güzergah" readonly />
+                                <h6 class="mt-4"> @_localization.GetKey("gun").Value </h6>
+                                <input type="text" id="gün" name="gün" value="@Model.Gün" readonly />
+                                <h6 class="mt-4"> @_localization.GetKey("saat").Value</h6>
+                                <input type="text" id="saat" name="saat" value="@Model.Saat"  readonly/>
+                                    <select name="kapasite" itemid="kapasite">
+                                        disabled selected
+                                        <option value="">Koltuk Seç</option>
+                                        @for (int i = 1; i <= Model.Kapasite; i++)
+                                        {
+                                          <option value="@i" name="kapasite">@i</option>
+                                        }
+                                    
+                                    </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <div class="col-lg-6 mt-lg-0 mt-5 contact-right">
+                        
+                            <div class="text-right">
+                                <button class="btn btn-style btn-primary" type="submit">@_localization.GetKey("gn").Value</button>
+                            </div>
+                       
+                    </div>
+
+                </div>
+            
+            </div>
+        </form>
+
+    </section>
+</body>
+
+

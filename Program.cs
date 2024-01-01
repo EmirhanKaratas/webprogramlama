@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
@@ -34,7 +35,13 @@ builder.Services.Configure<RequestLocalizationOptions>(options =>
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
+{
 
+    options.Cookie.Name = "giris";
+    options.LoginPath = "/GirisYap/Login";
+    options.AccessDeniedPath = "/GirisYap/Login";
+}); 
 
 builder.Services.AddDbContext<Context>(opts =>
 {
@@ -57,7 +64,7 @@ app.UseStaticFiles();
 
 app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

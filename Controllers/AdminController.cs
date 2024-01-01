@@ -2,14 +2,16 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using NuGet.Protocol.Plugins;
 using Proje.Models.siniflar;
 using Proje.ViewModel;
 using System.Numerics;
+using System.Security.Claims;
 
 namespace Proje.Controllers
 {
-
+    [Authorize(Roles = "admin")]
     public class AdminController : Controller
     {
 
@@ -56,6 +58,45 @@ namespace Proje.Controllers
             return View(userwiew);
         }
 
+        public async Task<IActionResult> BiletGoruntule ()
+        {
+           
+
+            // API endpoint'inin sonunda kullanıcının ID'sini ekleyerek istek yapma işlemi
+            string apiUrl = "https://localhost:7060/api/BiletlerApi";
+
+            using (var httpClient = new HttpClient())
+            {
+                var response = await httpClient.GetStringAsync(apiUrl);
+
+                if (!string.IsNullOrEmpty(response))
+                {
+                    // String veriyi JSON'a dönüştür
+                    var postmanData = JsonConvert.DeserializeObject<List<Biletler>>(response);
+
+
+                    return View(postmanData);
+                }
+                else
+                {
+                    return View("Error");
+                }
+            }
+        }
+        public IActionResult Biletsil(int id) 
+        {
+            Biletler bilet = _context.biletlers.Find(id);
+
+
+            if (bilet != null)
+            {
+                _context.biletlers.Remove(bilet);
+                _context.SaveChanges();
+            }
+
+            
+            return RedirectToAction(nameof(BiletGoruntule));
+        }
         public IActionResult Ucuslar()
         {
             return View();

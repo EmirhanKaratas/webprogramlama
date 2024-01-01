@@ -16,6 +16,7 @@ namespace Proje.Models.siniflar
         public DbSet<Iletisim> Iletisims { get; set; }
         public DbSet<Users> Users { get; set; }
         public DbSet<Seferler> Seferlers { get; set; }
+        public DbSet<Biletler>biletlers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -26,8 +27,6 @@ namespace Proje.Models.siniflar
             modelBuilder.Entity<Admin>()
                   .Property(u => u.AdminID)
                   .ValueGeneratedNever(); // ID'nin otomatik oluşturulmasını engelle
-
-
 
         }
     }

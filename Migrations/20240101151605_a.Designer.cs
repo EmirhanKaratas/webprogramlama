@@ -12,7 +12,7 @@ using Proje.Models.siniflar;
 namespace Proje.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20231230144547_a")]
+    [Migration("20240101151605_a")]
     partial class a
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -47,6 +47,47 @@ namespace Proje.Migrations
                     b.HasKey("AdminID");
 
                     b.ToTable("Admins");
+                });
+
+            modelBuilder.Entity("Proje.Models.siniflar.Biletler", b =>
+                {
+                    b.Property<int>("Biletİd")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Biletİd"), 1L, 1);
+
+                    b.Property<string>("Gün")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("KullaniciAdi")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("KullaniciEmail")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("KullaniciTc")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("güzergah")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("koltuk")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("zaman")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Biletİd");
+
+                    b.ToTable("Biletlers");
                 });
 
             modelBuilder.Entity("Proje.Models.siniflar.Güzergah", b =>

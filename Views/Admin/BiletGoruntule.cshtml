@@ -1,0 +1,45 @@
+﻿@model List<Proje.Models.siniflar.Biletler>
+@{
+    ViewData["Title"] = "BiletGorüntüle";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<h2>Bilet Görüntüle</h2>
+
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>KullaniciTc</th>
+        <th>KullaniciAdi</th>
+        <th>KullaniciEmail</th>
+        <th>güzergah</th>
+        <th>Gün</th>
+        <th>zaman</th>
+        <th>koltuk</th>
+
+
+        <th>Sil</th>
+    </tr>
+    @foreach (var bilet in Model)
+    {
+    <tr>
+        <td>@bilet.Biletİd</td>
+        <td>@bilet.KullaniciTc</td>
+        <td>@bilet.KullaniciAdi</td>
+        <td>@bilet.KullaniciEmail</td>
+        <td>@bilet.güzergah</td>
+        <td>@bilet.Gün</td>
+        <td>@bilet.zaman</td>
+        <td>@bilet.koltuk</td>
+
+        <td>
+                <a asp-controller="Admin" asp-action="BiletSil" class="btn btn-danger" asp-route-id="@bilet.Biletİd">
+                Sil
+            </a>
+        </td>
+
+    </tr>
+        }
+
+</table>

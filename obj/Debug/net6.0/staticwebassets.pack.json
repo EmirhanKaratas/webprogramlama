@@ -1,1075 +1,1075 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\css\\main.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\css\\main.css",
       "PackagePath": "staticwebassets\\Login_v1\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\css\\util.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\css\\util.css",
       "PackagePath": "staticwebassets\\Login_v1\\css\\util.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\animated.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\animated.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\core.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\core.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\icons.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\icons.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\larger.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\larger.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\list.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\list.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\path.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\path.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\variables.less",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\less\\variables.less"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Black.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-Black.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Bold.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Italic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-Italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Light.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Medium.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Regular.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-Thin.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-Thin.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\OFL.txt",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\montserrat\\OFL.txt",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\montserrat\\OFL.txt"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Black.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Black.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-Black.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-BlackItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-BlackItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Bold.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Bold.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-BoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-BoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-ExtraLight.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Italic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Italic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-Italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Light.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Light.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-LightItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-LightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Medium.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Medium.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-MediumItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-MediumItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Regular.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Regular.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-SemiBold.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-SemiBold.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Thin.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-Thin.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-Thin.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\fonts\\poppins\\Poppins-ThinItalic.ttf",
       "PackagePath": "staticwebassets\\Login_v1\\fonts\\poppins\\Poppins-ThinItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\images\\icons\\favicon.ico",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\images\\icons\\favicon.ico",
       "PackagePath": "staticwebassets\\Login_v1\\images\\icons\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\images\\img-01.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\images\\img-01.png",
       "PackagePath": "staticwebassets\\Login_v1\\images\\img-01.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\index.html",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\index.html",
       "PackagePath": "staticwebassets\\Login_v1\\index.html"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\js\\main.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\js\\main.js",
       "PackagePath": "staticwebassets\\Login_v1\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\animate\\animate.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\animate\\animate.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\animate\\animate.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\popper.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\popper.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\js\\popper.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\popper.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\tooltip.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\bootstrap\\js\\tooltip.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\bootstrap\\js\\tooltip.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\css-hamburgers\\hamburgers.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\css-hamburgers\\hamburgers.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\css-hamburgers\\hamburgers.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\css-hamburgers\\hamburgers.min.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\css-hamburgers\\hamburgers.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\jquery\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\jquery\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\select2\\select2.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\select2\\select2.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\select2\\select2.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\select2\\select2.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\select2\\select2.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\select2\\select2.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\select2\\select2.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\select2\\select2.min.css",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\select2\\select2.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\select2\\select2.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\select2\\select2.min.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\select2\\select2.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\tilt\\tilt.jquery.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Login_v1\\vendor\\tilt\\tilt.jquery.min.js",
       "PackagePath": "staticwebassets\\Login_v1\\vendor\\tilt\\tilt.jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\about.html",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\about.html",
       "PackagePath": "staticwebassets\\Traversal-Starter\\about.html"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\css\\style-starter.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\css\\style-starter.css",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\css\\style-starter.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\abuz.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\abuz.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\abuz.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\adanal─▒.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\adanal─▒.jpg"
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\adanalÔöÇÔûÆ.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\adanalÔöÇÔûÆ.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\akif.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\akif.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\akif.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ako.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ako.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ako.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ank2.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ank2.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ank2.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ank3.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ank3.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ank3.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\antalya.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\antalya.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\antalya.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\bal─▒k.jpg",
-      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\bal─▒k.jpg"
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\balÔöÇÔûÆk.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\balÔöÇÔûÆk.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\baslikresim.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\baslikresim.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\baslikresim.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\bodrum-merkez.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\bodrum-merkez.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\bodrum-merkez.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\close.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\close.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\close.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\date.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\date.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\date.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\diy1.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\diy1.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\diy1.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\dots.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\dots.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\dots.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\down.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\down.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\down.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\emirhan.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\emirhan.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\emirhan.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\etkili-iletisim.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\etkili-iletisim.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\etkili-iletisim.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\gazi.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\gazi.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\gazi.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\giris-yap.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\giris-yap.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\giris-yap.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\icardi.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\icardi.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\icardi.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\img-sprite.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\img-sprite.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\img-sprite.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ist1.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ist1.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ist1.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ist2.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ist2.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ist2.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\istanbulankara.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\istanbulankara.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\istanbulankara.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\iz1.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\iz1.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\iz1.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\kastamonu.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\kastamonu.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\kastamonu.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\kocaeli.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\kocaeli.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\kocaeli.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\konya.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\konya.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\konya.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\maras.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\maras.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\maras.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\register.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\register.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\register.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\rocky.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\rocky.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\rocky.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\samsun.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\samsun.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\samsun.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\swap (1).png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\swap (1).png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\swap (1).png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\takas.png",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\takas.png",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\takas.png"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team1.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team1.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\team1.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team2.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team2.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\team2.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team3.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team3.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\team3.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team4.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\team4.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\team4.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ts1.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ts1.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ts1.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ucak.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\images\\ucak.jpg",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\images\\ucak.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\all.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\all.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\all.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\app.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\app.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\app.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery-3.3.1.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery.countup.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery.countup.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\jquery.countup.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery.waypoints.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery.waypoints.min.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\jquery.waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery.zoomslider.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\jquery.zoomslider.min.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\jquery.zoomslider.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\lightbox-plus-jquery.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\lightbox-plus-jquery.min.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\lightbox-plus-jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\main.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\modernizr-2.6.2.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\modernizr-2.6.2.min.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\modernizr-2.6.2.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\owl.carousel.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\owl.carousel.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\popper.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\theme-change.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\assets\\js\\theme-change.js",
       "PackagePath": "staticwebassets\\Traversal-Starter\\assets\\js\\theme-change.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\contact.html",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\contact.html",
       "PackagePath": "staticwebassets\\Traversal-Starter\\contact.html"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\index.html",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\index.html",
       "PackagePath": "staticwebassets\\Traversal-Starter\\index.html"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\services.html",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\services.html",
       "PackagePath": "staticwebassets\\Traversal-Starter\\services.html"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\Traversal-Starter\\starter-license-W3Layouts.txt",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\Traversal-Starter\\starter-license-W3Layouts.txt",
       "PackagePath": "staticwebassets\\Traversal-Starter\\starter-license-W3Layouts.txt"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\Hayal Edince - Turk Hava Yollari.mp4",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\Hayal Edince - Turk Hava Yollari.mp4",
       "PackagePath": "staticwebassets\\css\\Hayal Edince - Turk Hava Yollari.mp4"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\thumbs_b_c_391d49beb1612fb6c84d8f4884e91f1a.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\thumbs_b_c_391d49beb1612fb6c84d8f4884e91f1a.jpg",
       "PackagePath": "staticwebassets\\css\\thumbs_b_c_391d49beb1612fb6c84d8f4884e91f1a.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\thy-2047810.jpg",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\thy-2047810.jpg",
       "PackagePath": "staticwebassets\\css\\thy-2047810.jpg"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\css\\thy.mp4",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\css\\thy.mp4",
       "PackagePath": "staticwebassets\\css\\thy.mp4"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Emirhan Karataş\\source\\repos\\Proje\\Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\TULPAR\\OneDrive\\Masaüstü\\Proje\\Proje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

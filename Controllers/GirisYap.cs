@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Proje.Models.siniflar;
 using Proje.ViewModel;
+using System.Security.Claims;
 
 namespace Proje.Controllers
 {
@@ -74,25 +77,42 @@ namespace Proje.Controllers
         }
         [AllowAnonymous]
         [HttpPost]
-        public IActionResult Login(VİewUsersLogin users)
+        public async Task< IActionResult >Login(VİewUsersLogin users)
         {
             if (ModelState.IsValid)
             {
                 var user = _context.Users.FirstOrDefault(x => x.KullaniciMail == users.KullaniciMail && x.KullaniciSifre == users.KullaniciSifre);
                 var admin = _context.Admins.FirstOrDefault(x => x.AdminMail == users.KullaniciMail && x.AdminSifre == users.KullaniciSifre);
+             
 
                 if (admin != null)
                 {
-                    // Admin girişi başarılı ise, yönlendirme yapabilirsiniz
+                    var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Email, admin.AdminMail),
+                    new Claim(ClaimTypes.Role, admin.Rol)
+                };
+                    Console.WriteLine(admin.Rol);
+                    var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                    var authProperties = new AuthenticationProperties();
+                    await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
+
                     return RedirectToAction("Index", "Admin");
                 }
 
-                if (user != null)
+               else if (user != null)
                 {
-                    // Kullanıcı girişi başarılı ise, TempData ile mesajı ayarla
+                    var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, user.KullaniciAdi),
+                    new Claim(ClaimTypes.Anonymous, user.KullaniciTC),
+                    new Claim(ClaimTypes.Email, user.KullaniciMail),
+                    new Claim(ClaimTypes.Role, user.Rol)
+                };
+                    var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                    var authProperties = new AuthenticationProperties();
+                    await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
 
-
-                    // Giriş başarılı olduğu takdirde bir sayfaya yönlendirin
                     return RedirectToAction("Index", "Home");
                 }
                 else

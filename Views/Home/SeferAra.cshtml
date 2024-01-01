@@ -1,0 +1,55 @@
+﻿@using Proje.ViewModel
+@{
+    ViewData["Title"] = "Seferler";
+    Layout = "~/Views/Shared/_testlayout.cshtml";
+}
+<br />
+<br />
+<section class="w3l-about-breadcrumb text-left">
+    <div class="breadcrumb-bg breadcrumb-bg-about py-sm-5 py-4">
+        <div class="container py-2">
+            <h2 class="title">Seferler</h2>
+            <ul class="breadcrumbs-custom-path mt-2">
+                <li><a href="#url">Ana Sayfa</a></li>
+                <li class="active"><span class="fa fa-arrow-right mx-2" aria-hidden="true"></span> Seferler </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section class="w3l-grids-3 py-5">
+    <div class="container py-md-5">
+        <div class="title-content text-left mb-lg-5 mb-4">
+            <h3 class="sub-title">Seferler</h3>
+
+        </div>
+        <div class="row bottom-ab-grids">
+
+            @foreach (ViewSeferEkle sefer in Model)
+            {
+                <div class="col-lg-6 subject-card mt-lg-0 mt-4">
+                    <div class="subject-card-header p-4">
+                        <a href="/Home/Odeme/@sefer.SeferId" class="card_title p-lg-4d-block" >
+                            <div class="row align-items-center">
+                                <div class="col-sm-5 subject-img">
+                                    <img src="@sefer.Image" class="img-fluid" alt="">
+                                </div>
+                                <div class="col-sm-7 subject-content mt-sm-0 mt-4">
+                                    <h4>@sefer.güzergah</h4>
+                                    <p>@sefer.Saat</p>
+                                    <div class="dst-btm">
+
+                                        <span>Fiyat @sefer.Fiyat TL</span>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            }
+
+
+
+        </div>
+    </div>
+</section>
